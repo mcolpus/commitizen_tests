@@ -1,3 +1,13 @@
+## 0.2.0 (2024-01-08)
+
+### Feat
+
+- automate version bump
+
+### Fix
+
+- added line
+
 ## 0.1.0 (2024-01-08)
 
 ### Feat
