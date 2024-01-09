@@ -1,3 +1,15 @@
+## 0.4.0 (2024-01-09)
+
+### Feat
+
+- auto release
+
+### Fix
+
+- formatting
+- should not allow add file
+- new file
+
 ## 0.3.2 (2024-01-08)
 
 ### Fix
