@@ -1,3 +1,14 @@
+## 0.8.0 (2024-01-11)
+
+### Feat
+
+- new workflow on tag
+
+### Fix
+
+- update token control
+- del file
+
 ## 0.7.1 (2024-01-11)
 
 ### Fix

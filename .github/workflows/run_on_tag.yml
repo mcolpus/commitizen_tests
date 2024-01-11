@@ -13,4 +13,4 @@ jobs:
       - name: Print version
         run: |
           echo "Version: ${{ github.ref }}"
-          echo 0.7.1
+          echo 0.8.0
