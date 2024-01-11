@@ -6,5 +6,6 @@ tag_format = "$version"
 version_scheme = "semver"
 update_changelog_on_bump = true
 version_files = [
-    "example_file.yml"
+    "example_file.yml",
+    ".github/workflows/run_on_tag.yml",
 ]
