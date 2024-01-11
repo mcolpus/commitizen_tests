@@ -19,6 +19,7 @@
 ### Feat
 
 - automate version bump
+- hello
 
 ### Fix
 
