@@ -27,6 +27,6 @@ jobs:
         with:
           # body_path: "body.md"
           generate_release_notes: true
-          tag_name: ${{ env.REVISION }}
+          tag_name: "hello-${{ env.REVISION }}"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
