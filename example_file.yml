@@ -1,5 +1,5 @@
 name: random
-container: some_container:0.8.2
-thing: 0.8.2:hello
+container: some_container:0.9.0
+thing: 0.9.0:hello
 new_thing: 1.1.1:not version
 thing2: test
